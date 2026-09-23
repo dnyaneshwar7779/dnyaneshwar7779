@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dnyaneshwar7779" alt="dnyaneshwar7779" /></a> </p>
+
 
 - 🔭 I’m currently working on [NanuGujar — Premium Clothing E-Commerce Store (MERN Stack)](https://github.com/dnyaneshwar7779/Premium-Clothing-E-Commerce-Store-MERN-Stack-#nanugujar--premium-clothing-e-commerce-store-mern-stack)
 
