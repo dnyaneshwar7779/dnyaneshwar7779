@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm PATIL DNYANESHWAR SOPAN</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dnyaneshwar7779&label=Profile%20views&color=0e75b6&style=flat" alt="dnyaneshwar7779" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dnyaneshwar7779" alt="dnyaneshwar7779" /></a> </p>
 
