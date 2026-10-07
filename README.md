@@ -26,21 +26,15 @@
 
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="coding" style="display:none"/>
+Me
 
-```js
-const dnyaneshwar = {
-  role: "Full-Stack Developer",
-  stack: ["MongoDB", "Express", "React", "Node.js"],
-  currentlyWorkingOn: "Full-Stack & AI-based projects",
-  learning: ["Advanced MERN", "AI/ML", "System Design"],
-  interests: ["Web Development", "Artificial Intelligence", "Automation"],
-  openTo: "Collaboration & interesting projects 🤝",
-  motto: "Learn → Build → Test → Improve → Deploy 🚀",
-};
-```
+🔭 Currently working on **Full-Stack & AI-based projects**
+🌱 Learning **Advanced MERN Stack, AI/ML & System Design**
+💡 Interested in **Web Development, Artificial Intelligence & Automation**
+🛠️ Love building **real-world applications**
+🎯 Focused on improving my **problem-solving and development skills**
+🤝 Open to **collaboration and interesting projects**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 ## 🧰 Tech Stack
 
