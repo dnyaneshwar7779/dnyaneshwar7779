@@ -1,108 +1,101 @@
 <div align="center">
 
-# 👋 Hi, I'm Dnyaneshwar Gujar
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Dnyaneshwar%20Gujar&fontSize=52&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%20%26%20ML&descSize=18&descAlignY=60&descColor=c9d1d9" alt="header"/>
 
-### 💻 Full-Stack Developer | MERN Stack | AI & ML Enthusiast
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Hi+%F0%9F%91%8B+I'm+Dnyaneshwar;Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+AI+%26+ML+Enthusiast+%F0%9F%A4%96;Turning+ideas+into+working+apps+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
 
 <p>
   <a href="https://github.com/dnyaneshwar7779">
-    <img src="https://img.shields.io/github/followers/dnyaneshwar7779?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/dnyaneshwar7779?label=Followers&style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b27" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/dnyaneshwar7779">
-    <img src="https://komarev.com/ghpvc/?username=dnyaneshwar7779&style=for-the-badge&color=blue" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=dnyaneshwar7779&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/dnyaneshwar7779?tab=repositories">
+    <img src="https://img.shields.io/github/stars/dnyaneshwar7779?style=for-the-badge&logo=github&color=e0af68&labelColor=1a1b27" alt="Stars"/>
   </a>
 </p>
 
-<p>
-  <i>Building practical projects, learning new technologies, and turning ideas into working applications.</i>
-</p>
+<i>Building practical projects, learning new technologies, and turning ideas into working applications.</i>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 ## 🚀 About Me
 
-* 🔭 Currently working on **Full-Stack & AI-based projects**
-* 🌱 Learning **Advanced MERN Stack, AI/ML & System Design**
-* 💡 Interested in **Web Development, Artificial Intelligence & Automation**
-* 🛠️ Love building **real-world applications**
-* 🎯 Focused on improving my **problem-solving and development skills**
-* 🤝 Open to **collaboration and interesting projects**
+<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="coding" style="display:none"/>
 
----
+```js
+const dnyaneshwar = {
+  role: "Full-Stack Developer",
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  currentlyWorkingOn: "Full-Stack & AI-based projects",
+  learning: ["Advanced MERN", "AI/ML", "System Design"],
+  interests: ["Web Development", "Artificial Intelligence", "Automation"],
+  openTo: "Collaboration & interesting projects 🤝",
+  motto: "Learn → Build → Test → Improve → Deploy 🚀",
+};
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" />
-</p>
-
-### 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<a href="https://github.com/dnyaneshwar7779">
+**💻 Languages**
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dnyaneshwar7779&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="Dnyaneshwar's GitHub Stats"/>
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&theme=dark" alt="languages"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwar7779&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages"/>
+**🌐 Web Development**
 
-</a>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap&theme=dark" alt="web"/>
+
+**🛠️ Tools & Technologies**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" alt="tools"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/dnyaneshwar7779">
-
-<img src="https://streak-stats.demolab.com/?user=dnyaneshwar7779&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
-
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyaneshwar7779&hide_border=true&area=true&theme=github-compact" alt="GitHub Activity Graph"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dnyaneshwar7779&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwar7779&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
+### 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dnyaneshwar7779&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+<img src="https://streak-stats.demolab.com/?user=dnyaneshwar7779&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak"/>
 
 </div>
 
----
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyaneshwar7779&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dnyaneshwar7779&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 ## ⭐ Featured Projects
 
@@ -115,15 +108,13 @@
 
 **Full-Stack Web Application**
 
-A practical web application built using modern technologies with authentication, database integration and a responsive user interface.
+A practical web application with authentication, database integration and a responsive user interface.
 
 **Tech:** `React` `Node.js` `Express` `MongoDB`
 
-<p>
 <a href="https://github.com/dnyaneshwar7779">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Project-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
 </a>
-</p>
 
 </td>
 
@@ -133,15 +124,13 @@ A practical web application built using modern technologies with authentication,
 
 **AI-Powered Application**
 
-An intelligent application focused on automation, data processing and solving real-world problems using AI technologies.
+An intelligent application focused on automation, data processing and solving real-world problems with AI.
 
 **Tech:** `Python` `AI/ML` `API`
 
-<p>
 <a href="https://github.com/dnyaneshwar7779">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Project-bb9af7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
 </a>
-</p>
 
 </td>
 
@@ -155,15 +144,13 @@ An intelligent application focused on automation, data processing and solving re
 
 **E-Commerce Platform**
 
-A complete MERN-based application with user authentication, product management and an admin dashboard.
+A complete MERN app with user authentication, product management and an admin dashboard.
 
 **Tech:** `MongoDB` `Express` `React` `Node.js`
 
-<p>
 <a href="https://github.com/dnyaneshwar7779">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Project-9ece6a?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
 </a>
-</p>
 
 </td>
 
@@ -171,95 +158,74 @@ A complete MERN-based application with user authentication, product management a
 
 ### 🧠 More Projects
 
-Explore my repositories to see more experiments, learning projects and applications.
+Explore my repositories for more experiments, learning projects and applications.
 
-<p>
 <a href="https://github.com/dnyaneshwar7779?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20Repositories-e0af68?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
 </a>
-</p>
 
 </td>
 
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 ## 📌 My Development Journey
 
-```text
-Learning
-   ↓
-Building
-   ↓
-Testing
-   ↓
-Improving
-   ↓
-Deploying
-   ↓
-Learning Again 🚀
-```
-
----
-
-## 🐍 Contribution Activity
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+```mermaid
+flowchart LR
+    A[Learning 📚] --> B[Building 🛠️] --> C[Testing 🧪] --> D[Improving ✨] --> E[Deploying 🚀] --> A
+```
 
 </div>
 
----
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnyaneshwar7779/dnyaneshwar7779/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dnyaneshwar7779/dnyaneshwar7779/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/dnyaneshwar7779/dnyaneshwar7779/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
 
 ## 📊 More GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/dnyaneshwar7779">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dnyaneshwar7779&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=transparent" alt="GitHub Activity Statistics"/>
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=dnyaneshwar7779&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight" alt="More Stats"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/dnyaneshwar7779">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<!-- Add your LinkedIn URL here -->
-
+<!-- Add your LinkedIn URL in place of # -->
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<!-- Add your portfolio URL here -->
-
+<!-- Add your portfolio URL in place of # -->
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-bb9af7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ### 💙 Thanks for visiting my profile!
 
 **If you find my projects useful, consider giving them a ⭐**
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" alt="footer"/>
 
 </div>
