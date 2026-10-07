@@ -73,19 +73,6 @@ Me
 
 </div>
 
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyaneshwar7779&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dnyaneshwar7779&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies"/>
 
 </div>
 
