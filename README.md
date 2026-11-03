@@ -1,10 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Dnyaneshwar%20Gujar&fontSize=52&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%20%26%20ML&descSize=18&descAlignY=60&descColor=c9d1d9" alt="header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Hi+%F0%9F%91%8B+I'm+Dnyaneshwar;Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+AI+%26+ML+Enthusiast+%F0%9F%A4%96;Turning+ideas+into+working+apps+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
 
 <p>
   <a href="https://github.com/dnyaneshwar7779">
