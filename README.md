@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://github.com/dnyaneshwar7779">
-    <p><img src="https://img.shields.io/github/followers/dnyaneshwar7779?label=Followers&style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b27" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/dnyaneshwar7779?label=Followers&style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b27" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/dnyaneshwar7779">
     <img src="https://komarev.com/ghpvc/?username=dnyaneshwar7779&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="Profile Views"/>
